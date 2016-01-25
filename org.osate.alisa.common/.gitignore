@@ -1,5 +1,5 @@
 /bin/
 /xtend-gen/
-/xsemantics-gen/
 /target/
 *.jar
+*._trace
